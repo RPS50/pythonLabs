@@ -1,12 +1,5 @@
 # pythonLabs
 
-TABLE OF CONTENTs 
-00:00:00 Introduction 
-00:01:49 Installing Python 3 
-ok python 3.11
-00:06:10 Your First Python Program 
-create a file app.py in PyCharm
-print("RPS")
 
 
 00:08:11 How Python Code Gets Executed 
