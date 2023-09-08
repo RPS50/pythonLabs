@@ -109,17 +109,17 @@ Your weight in Kilos is:  58.05982336
 
 
 00:29:31 Strings 
-course = "Python's Course for Beginners"
+course = "Python"
 print(course)
 
-Python's Course for Beginners
+Python
 
 Process finished with exit code 0
 
-course = 'Python for "Beginners"'
+course = 'Python'
 print(course)
 
-Python for "Beginners"
+Python
 
 Process finished with exit code 0
 
@@ -165,7 +165,7 @@ print(another)
 Pytho
 Python for Beginers
 
-course = 'Python for Beginners'
+course = 'Python'
 #         0123
 another = course[:]
 print(course[:5])
@@ -179,15 +179,7 @@ print(another)
 name = "Jennifer"
 print(name[1:-1])
 
-Pytho
-Python for Beginners
-s
-r
-Pyt
-Python for Beginners
-Pytho
-Python for Beginners
-ennife
+
 
 00:37:36 Formatted Strings 
 
@@ -218,19 +210,19 @@ John [Smith] is a coder
 Process finished with exit code 0
 
 00:40:50 String Methods 
-course = "Python for Beginners"
+course = "Python for Pros"
 print(len(course))
 20  ←--this is the result
 
-course = "Python for Beginners"
+course = "Python for Pros"
 print(len(course))
 course.upper()  #<--method
 print(course.upper()) #<-- prints it all in upper case
 print(course) #<-- but doesn't alter the original
-PYTHON FOR BEGINNERS
-Python for Beginners
+PYTHON FOR Pros
+Python for Pros
 
-course = "Python for Beginners"
+course = "Python for Pros"
 print(len(course))
 course.upper()  #<--method
 print(course.upper()) #<-- prints it all in upper case
@@ -249,11 +241,11 @@ course.replace()
 "..." in course
 
 20
-PYTHON FOR BEGINNERS
-python for beginners
-Python for Beginners
+PYTHON FOR Pros
+python for Pros
+Python for Pros
 4
-Jython for Beginners
+Jython for Pros
 True
 False
 
