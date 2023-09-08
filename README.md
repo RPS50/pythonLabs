@@ -1,12 +1,4 @@
 # pythonLabs
-various tests and Python functions
-34,869,983 views Feb 18, 2019 Back-end Development
-Python tutorial - Python full course for beginners - Go from Zero to Hero with Python (includes machine learning & web development projects). 
-🔥 Want to master Python? Get my Python mastery course: http://bit.ly/35BLHHP 
-👍 Subscribe for more Python tutorials like this: https://goo.gl/6PYaGF 
-👉 Watch the new edition:
-    • Python for Beginners - Learn Python i...   
-📕 Get my FREE Python cheat sheet: http://bit.ly/2Gp80s6 
 
 TABLE OF CONTENTs 
 00:00:00 Introduction 
